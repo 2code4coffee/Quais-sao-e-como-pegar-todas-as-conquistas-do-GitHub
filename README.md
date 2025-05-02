@@ -71,12 +71,12 @@ Conquista rara que não pode mais ser obtida. Foi concedida a quem contribuiu co
 
 ----
 
-## Stargazer
+## Heart On Your Sleeve
 
 <img width="148" 
 alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f68656172742d6f6e2d796f75722d736c656576652d64656661756c742e706e67" src="https://github.com/user-attachments/assets/235c1fe2-45bb-4db2-bc5e-7acf5815cb25" />
 
-Essa conquista é conhecida como "Feiticeiro do Código" e pode ser obtida ao completar um desafio ou tarefa específica relacionada à programação, como resolver um problema complexo de codificação ou participar de um evento de hackathon.
+Não se sabe ao certo como conquistar essa, mas chuto que tenha algo a ver com muitos patrocinios de trabalhos de código aberto via GitHub Sponsors
 
 ----
 
@@ -90,11 +90,11 @@ Outra conquista rara que não pode mais ser obtida. Foi concedida a quem Contrib
 
 ----
 
-## Code Sorcerer
+## Open Sourcerer
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f6f70656e2d736f757263657265722d64656661756c742e706e67" src="https://github.com/user-attachments/assets/327ddb5f-9fd0-476f-9790-919a2780181b" />
 
-Para obter essa conquista, você precisa completar um desafio ou tarefa específica relacionada à programação ou codificação, que pode variar dependendo da plataforma ou do contexto em que a conquista é oferecida.
+Essa conquista é conhecida como "Feiticeiro do Código" e pode ser obtida ao completar um desafio ou tarefa específica relacionada à programação, como resolver um problema complexo de codificação ou participar de um evento de hackathon.
 
 ----
 
